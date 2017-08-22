@@ -8062,7 +8062,7 @@ h5,
 h6 {
     margin: 0;
     padding: 0.2em;
-    color: #4682b4
+    color: #4682b4;
 }
 
 h1,
@@ -8070,7 +8070,7 @@ h2,
 h3,
 h4 {
     font-family: 'Dancing Script', cursive;
-    font-size: 4em
+    /*font-size: 4em;*/
 }
 
 p {
@@ -8086,17 +8086,18 @@ body {
     margin-right: auto;
     margin-left: auto;
     background: #5cc6bd;
-    line-height: 1.8
+    line-height: 1.8;
 }
 
 h1 {
-    margin-bottom: .4em;
-    color: #4682b4
+    font-size: 2px;
+    /*margin-bottom: .4em;*/
+    /*color: #4682b4;*/
 }
 
 h2 {
     margin-bottom: .3em;
-    font-size: 2em
+    font-size: 2em;
 }
 
 h3 {
@@ -8114,14 +8115,14 @@ h5 {
 }
 
 .navButtons {
-    text-align: center
+    text-align: center;
 }
 
 .navButtons a {
     text-align: center;
     background: lightslategrey;
     padding: 10px;
-    text-decoration: none
+    text-decoration: none;
 }
 
 a {
@@ -8191,7 +8192,7 @@ header h2 {
 
 aside {
     padding: 1em;
-    background: #53688a;
+    /*background: #53688a;*/
     color: white;
     margin-bottom: 1em
 }
