@@ -8054,6 +8054,15 @@ html {
     margin: 0 auto
 }
 
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 170%;
+    margin-right: auto;
+    margin-left: auto;
+    background: #5cc6bd;
+    line-height: 1.8;
+}
+
 h1,
 h2,
 h3,
@@ -8078,15 +8087,6 @@ p {
     padding: 0;
     margin-bottom: 1em;
     font-family: 'Quicksand', sans-serif
-}
-
-body {
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 170%;
-    margin-right: auto;
-    margin-left: auto;
-    background: #5cc6bd;
-    line-height: 1.8;
 }
 
 h1 {
