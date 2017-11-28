@@ -8056,7 +8056,7 @@ html {
 
 body {
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 170%;
+    /*font-size: 170%;*/
     margin-right: auto;
     margin-left: auto;
     background: #5cc6bd;
@@ -8078,7 +8078,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script';
     /*font-size: 4em;*/
 }
 
@@ -8090,23 +8090,23 @@ p {
 }
 
 h1 {
-    font-size: 2px;
+    font-size: 0.5px;
     /*margin-bottom: .4em;*/
     /*color: #4682b4;*/
 }
 
 h2 {
     margin-bottom: .3em;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 h3 {
-    font-size: 1.8em;
+    /*font-size: 1.8em;*/
     font-size: 2em
 }
 
 h4 {
-    font-size: 170%
+    font-size: 1.5em;
 }
 
 h5 {
